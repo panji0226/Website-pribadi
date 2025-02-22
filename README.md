@@ -180,7 +180,6 @@
 
     <nav>
         <a href="#about">Tentang Gue</a>
-        <a href="#projects">Lagu favorit</a>
         <a href="#gallery">Galeri random</a>
         <a href="#contact">Kontak</a>
     </nav>
@@ -189,7 +188,7 @@
         <div class="profile">
             <img src="pann1.jpg" alt="Foto Profil">
             <h2>Panji syahputra</h2>
-            <p>Seorang pelajar yang baru belajar membuat web walaupun masih html dan css jan di hujat bang wkwkwk,enjoy kasih rating web buatan gua wkwkwk,sebenernya ini bagian tentang diri gua cuma bingung isi apa (seterah dah gede)</p>
+            <p>Seorang pelajar yang baru belajar membuat web walaupun masih html dan css jan di hujat bang wkwkwk,enjoy kasih rating web buatan gua wkwkwk,hobi cuma main game bang,umur 17 tahun,tinggal di jakarta,elitis dikit,takut sama kecoa bismillah kedepannya bisa lebih bagus webnya lagi otw java script</p>
         </div>
     </section>
 
