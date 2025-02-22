@@ -229,6 +229,6 @@
     <footer>
         <p>&copy; 2025 Website Pribadi gua,hakcip di lindungi gua sendiri.</p>
     </footer>
-
+    <script src="main.js"></script>
 </body>
 </html>
