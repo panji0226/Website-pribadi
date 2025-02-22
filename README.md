@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -208,7 +209,6 @@
             <img src="mann1.jpg" alt="Foto 2">
             <img src="wass1.jpg" alt="Foto 3">
             <img src="fuu1.jpg" alt="Foto 4">
-            <img src="mess1.jpg" alt="Foto 5">
             <img src="uruma1.jpg" alt="Foto 6">
         </div>
     </section>
