@@ -204,12 +204,12 @@
     <section id="gallery">
         <h2>Galeri Foto</h2>
         <div class="gallery">
-            <img src="kenn1.jpg" alt="Foto 1">
-            <img src="mann1.jpg" alt="Foto 2">
-            <img src="wass1.jpg" alt="Foto 3">
-            <img src="fuu1.jpg" alt="Foto 4">
-            <img src="https://beta.tvarenasport.com/data/images/2023-03-24/2352_tan2023-03-2405183162-3_f.jpg" alt="Foto 5">
-            <img src="uruma1.jpg" alt="Foto 6">
+            <img src="kenn1.jpg" alt="Foto 1" class="gallery-item">
+            <img src="mann1.jpg" alt="Foto 2" class="gallery-item">
+            <img src="wass1.jpg" alt="Foto 3" class="gallery-item">
+            <img src="fuu1.jpg" alt="Foto 4" class="gallert-item">
+            <img src="https://beta.tvarenasport.com/data/images/2023-03-24/2352_tan2023-03-2405183162-3_f.jpg" alt="Foto 5" class="gallery-item">
+            <img src="uruma1.jpg" alt="Foto 6" class="gallery-item">
         </div>
     </section>
 
