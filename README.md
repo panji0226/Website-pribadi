@@ -116,7 +116,22 @@
         .gallery img:hover {
             transform: scale(1.05);
             box-shadow: 0 15px 45px rgba(0, 0, 0, 0.2);
-        }
+       }
+       
+        .gallery {
+             display: flex;
+            flex-wrap: wrap;
+       }
+
+        .gallery-item {
+             width: 30%;
+             margin: 10px;
+             transition: transform 0.2s;
+       }
+
+      .gallery-item:hover {
+             transform: scale(1.05);
+       }
 
         /* Kontak */
         .contact {
