@@ -208,6 +208,7 @@
             <img src="mann1.jpg" alt="Foto 2">
             <img src="wass1.jpg" alt="Foto 3">
             <img src="fuu1.jpg" alt="Foto 4">
+            <img src="https://beta.tvarenasport.com/data/images/2023-03-24/2352_tan2023-03-2405183162-3_f.jpg" alt="Foto 5">
             <img src="uruma1.jpg" alt="Foto 6">
         </div>
     </section>
