@@ -227,7 +227,14 @@
             <img src="uruma1.jpg" alt="Foto 6" class="gallery-item">
         </div>
     </section>
-
+   
+    <iframe width="560" height="315"
+        src="https://youtu.be/rKVeFzox2pg?si=q_nlvpaEaYlYNfxV"
+        title="Youtube Video Player" frameborder="0" allow="accelerometer;
+        picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+        </iframe>
+        
     <section id="contact" class="contact">
         <h2>Kontak gue</h2>
         <ul>
